@@ -1,7 +1,7 @@
 {
   "name": "pokeapp",
   "homepage": "https://vitorfontenele.github.io/pokeapp",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
